@@ -26,11 +26,6 @@ languages   Python · C/C++ · Go · TypeScript · Rust · SQL
 ml          PyTorch · XGBoost · scikit-learn · MPC · time-series · anomaly detection
 embedded    ESP32 · I2C/SPI/UART · sensor integration · hardware bring-up
 infra       Docker · PostgreSQL · Linux · multithreading · low-latency I/O
-```
-
----
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=benfarsi&show_icons=true&theme=dark&bg_color=04070d&title_color=4a8de8&icon_color=4a8de8&text_color=7a96b4&border_color=18273d&hide_border=false)](https://github.com/benfarsi)
 
 ---
 
